@@ -1,0 +1,13 @@
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.csprojAssemblyReference.cache
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.Form1.resources
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.Properties.Resources.resources
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.csproj.GenerateResource.cache
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.csproj.CoreCompileInputs.cache
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\bin\Debug\PDFtoTXT.exe.config
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\bin\Debug\PDFtoTXT.exe
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\bin\Debug\PDFtoTXT.pdb
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\bin\Debug\itextsharp.dll
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\bin\Debug\itextsharp.xml
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.csproj.CopyComplete
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.exe
+C:\Users\Piotr-Laptop\source\repos\PDFtoTXT\PDFtoTXT\obj\Debug\PDFtoTXT.pdb
